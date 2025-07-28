@@ -1,6 +1,6 @@
 -  Hi, I’m @MOHAMEDALI
 -  I’m interested in programming
--  I’m currently learning ethical hacking 
+-  I’m currently practicing cyber security 
 -  Reach me out @ mmdali008@gmail.com
 
 <!---
