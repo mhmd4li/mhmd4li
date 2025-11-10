@@ -46,43 +46,11 @@ My focus areas include **CI/CD automation**, **infrastructure-as-code**, and **s
 
 ---
 
-#### 🔐 **Security & IAM**
-- Secure Software Development Lifecycle (SSDLC)  
-- Role-Based Access Control (RBAC)  
-- Azure Managed Identities  
-- Secrets & Key Management with Azure Key Vault  
-- Static Code Analysis & Secure Configuration Enforcement  
-
----
-
 ### 🧩 **Certifications**
 - 🛡️ **ISC² Certified in Cybersecurity (CC)** – NIST-aligned security, access control & risk management  
 - 🌐 **Cisco Networking (CCNA Track)** – Routing, switching, and network configuration  
 - 🔥 **Palo Alto Firewall** – Configuration, policy management & network security  
 - 🧰 **Google Cybersecurity Certificate** – Linux, MySQL, and Python for defensive operations  
-
----
-
-### 🧱 **Projects**
-
-#### 🚀 **SaaS IAM Platform**
-- Built a multi-tier identity and access management platform using .NET Core, ABP Framework, and Docker  
-- Automated Azure DevOps pipelines for seamless build and containerized deployment  
-- Integrated Azure Event Hubs (Kafka) for event streaming and Redis for caching  
-- Enforced secure development practices using SonarQube and Azure Key Vault  
-
-#### 🏢 **On-Prem IAM Platform**
-- Maintained and optimized on-prem IAM platform ensuring zero downtime and high availability  
-- Integrated Azure Key Vault for secrets and encryption key management  
-- Automated IIS deployments through Azure DevOps pipelines and PowerShell  
-- Refactored APIs and introduced static code analysis for continuous code security  
-
----
-
-### ☁️ **Cloud & Infrastructure Focus**
-- Azure Cloud (DevOps, Key Vault, Container Apps, SQL, Event Hubs, Monitor)  
-- Windows Server (2016–2022), Ubuntu, Entra ID, ADDS  
-- Infrastructure Automation & Secure Configuration  
 
 ---
 
