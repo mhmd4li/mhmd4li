@@ -19,9 +19,11 @@ My focus areas include **CI/CD automation**, **infrastructure-as-code**, and **s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+
 </p>
 
-- C#, .NET Core, ABP Framework  
+- C#, .NET Core, ABP Framework, Python
 - RESTful API Development  
 - SQL, HTML, CSS  
 - Secure Coding & SAST Integration  
